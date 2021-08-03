@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\unit\Wiring;
 
 use \Codeception\Test\Unit;
 use Tankfairies\Enigma\Wiring\Wiring;

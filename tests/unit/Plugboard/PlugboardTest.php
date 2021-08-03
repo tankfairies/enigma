@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\unit\Plugboard;
 
 use \Codeception\Test\Unit;
 use Tankfairies\Enigma\Plugboard\Plugboard;

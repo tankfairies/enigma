@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\unit\Enigma;
 
 use \Codeception\Test\Unit;
 use Tankfairies\Enigma\Enigma\Alphabet;

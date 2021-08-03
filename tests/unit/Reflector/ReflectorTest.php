@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\unit\Reflector;
 
 use \Codeception\Test\Unit;
 use Tankfairies\Enigma\Reflector\Reflector;

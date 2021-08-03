@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\unit\Rotor;
 
 use \Codeception\Test\Unit;
 use Tankfairies\Enigma\Rotor\Rotor;
