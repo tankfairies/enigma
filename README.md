@@ -14,7 +14,7 @@ Install with [Composer](https://getcomposer.org/):
 ```bash
 composer require tankfairies/enigma
 ```
-##Details
+## Details
 This package provides the funtionality of 3 different Enigma models:
 
 *   Wehrmacht / Luftwaffe 3 rotor model
@@ -71,7 +71,7 @@ These conditions only apply if a proper emulation of the original Enigma is desi
 
 Instantiate a new instance of the library:
 
-###Reflectors
+### Reflectors
 ```php
 ReflectorInterface::REFLECTOR_B
 ReflectorInterface::REFLECTOR_C
@@ -79,7 +79,7 @@ ReflectorInterface::REFLECTOR_BTHIN
 ReflectorInterface::REFLECTOR_CTHIN
 ```
 
-###Rotors
+### Rotors
 ```php
 RotorInterface::ROTOR_I
 RotorInterface::ROTOR_II
@@ -93,7 +93,7 @@ RotorInterface::ROTOR_BETA
 RotorInterface::ROTOR_GAMMA
 ```
 
-###Code Example
+### Code Example
 ```php
 use Tankfairies\Enigma\Enigma;
 
@@ -147,7 +147,7 @@ foreach ($message as $character) {
 
 [http://users.telenet.be/d.rijmenants/](http://users.telenet.be/d.rijmenants/)
 
-##Credit
+## Credit
 
 Thanks to Rafal Masiarek from Mustache Lab, as this was the inspiriation for this project.
 https://github.com/MustacheLab/PHP-Enigma
