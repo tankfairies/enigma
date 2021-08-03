@@ -1,0 +1,48 @@
+{
+    "name": "tankfairies/enigma",
+    "description": "Enigma Engine",
+    "type": "library",
+    "keywords": [
+        "encryption",
+        "enigma",
+        "code breaking"
+    ],
+    "homepage": "https://tankfairies.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon",
+            "email": "jon@tankfairies.com",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tankfairies/enigma/issues"
+    },
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tankfairies\\Enigma\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "codeception/codeception": "^4.1",
+        "codeception/module-phpbrowser": "^1.0.0",
+        "codeception/module-asserts": "^1.0.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3.0"
+        },
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
