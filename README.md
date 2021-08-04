@@ -2,7 +2,7 @@
 [![Total Downloads](https://poser.pugx.org/tankfairies/enigma/downloads)](https://packagist.org/packages/tankfairies/enigma)
 [![Latest Unstable Version](https://poser.pugx.org/tankfairies/enigma/v/unstable)](https://packagist.org/packages/tankfairies/enigma)
 [![License](https://poser.pugx.org/tankfairies/enigma/license)](https://packagist.org/packages/tankfairies/enigma)
-[![Build Status](https://travis-ci.com/tankfairies/enigma.svg?branch=master)](https://travis-ci.com/tankfairies/enigma)
+[![Build Status](https://travis-ci.com/tankfairies/enigma.svg?branch=main)](https://travis-ci.com/tankfairies/enigma)
 
 
 # Enigma
